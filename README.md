@@ -81,5 +81,3 @@ Required if you download the release from [Releases](https://github.com/Stealeri
 
 - Builder.exe ([.NET Runtime 6.0.\*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
 - Stub ([.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48))
-
-
